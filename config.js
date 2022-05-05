@@ -14,8 +14,8 @@ const _config = {
     */
 
     // Client Settings (REQUIRED)
-    prefix: "", // The prefix to run all commands inside of the bot
-    token: "YOUR_BOT_TOKEN", // The token from your Discord Dev Portal
+    prefix: "!", // The prefix to run all commands inside of the bot
+    token: "ODYyMzU2NTk3Nzk4OTkzOTIw.GTAfWq._lyWThu2AFy24YQgj6xaGkvu-hYTU9J2YTrwLk", // The token from your Discord Dev Portal
     your_guild_id: "YOUR_SERVER_ID", // This is where you would put your server ID.
     aboutServer: "This bot has over 90 Commands, has an excessively customizabled configuration file, and can make your server look professional and clean! Feel free to buy it [here](https://hyperz.dev/)!", // This is a description of your server
     date_format: "MM-DD-YYYY HH:mm", // The date format for the bot
